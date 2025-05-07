@@ -1,0 +1,9 @@
+#FMS random 3-SAT
+#N=8192  nIter=8192000  alpha=426   NSamples=1
+#av(nit)	2683414.3177490234
+#std(nit)	0.0
+#av(e)	0.0
+#std(e)	0.0
+#av(runtime)	7807.51
+#std(runtime)	0.0
+0.0	2683414.3177490234	7807.51	6861

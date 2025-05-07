@@ -1,0 +1,9 @@
+#FMS random 4-SAT
+#N=65536  nIter=65536000  alpha=968   NSamples=1
+#av(nit)	95358.65412902832
+#std(nit)	0.0
+#av(e)	0.0
+#std(e)	0.0
+#av(runtime)	8349.44
+#std(runtime)	0.0
+0.0	95358.65412902832	8349.44	6861

@@ -1,0 +1,9 @@
+#T=0 quenches for random K-SAT
+#N=819200  alpha=4.0  maxIter=2000000   NSamples=4
+#av(t)	212949.0
+#av(log(t))	12.2623395053434
+#std(log(t))	0.05732222360715018
+179033.0
+202493.0
+231357.0
+238913.0
