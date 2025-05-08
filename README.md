@@ -63,6 +63,14 @@ Its structure of the whole repository is:
             │   ├── AllData
             │   └── ProcessedData
             └── InfiniteSize
+                ├── Average
+                │   ├── K_3
+                │   ├── K_4
+                │   └── K_5
+                └── MINIMAX
+                    ├── K_3
+                    ├── K_4
+                    └── K_5
 ```
 
 The folders called `AllData` contain raw data, while `ProcessedData` contain the files that are direcly used to produce the figures. Names are informative of the contents.
