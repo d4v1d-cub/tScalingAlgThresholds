@@ -76,4 +76,4 @@ The folder `/Plots` contains all the plots and the corresponding gnuplot scripts
 <a id="1">[1]</a> 
 Sakari Seitz, Mikko Alava and Pekka Orponen. 
 Focused local search for random 3-satisfiability. 
-J. Stat. Mech. Teory Exp., P06006 (2005)..
+J. Stat. Mech. Teory Exp., P06006 (2005).
