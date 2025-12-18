@@ -28,45 +28,48 @@ Its structure of the whole repository is:
 
 ```
 ├── Plots
-│   ├── Fig1
-│   ├── Fig2
-│   ├── Fig3
-│   ├── Fig4
-│   ├── Fig5
-│   ├── Fig6
-│   ├── Fig7
-│   ├── Fig8
-│   └── Fig9
+│   ├── Fig1
+│   ├── Fig10
+│   ├── Fig2
+│   ├── Fig3
+│   ├── Fig4
+│   ├── Fig5
+│   ├── Fig6
+│   ├── Fig7
+│   ├── Fig8
+│   └── Fig9
 ├── Programs
-│   ├── COL
-│   │   └── SimulatedAnnealing
-│   └── SAT
-│       ├── FMS
-│       ├── MCT0
-│       └── SimulatedAnnealing
-│           ├── FiniteSize
-│           └── InfiniteSize
-│               └── SimAnnProj
+│   ├── COL
+│   │   └── SimulatedAnnealing
+│   └── SAT
+│       ├── FMS
+│       ├── MCT0
+│       └── SimulatedAnnealing
+│           ├── FiniteSize
+│           └── InfiniteSize
+│               └── SimAnnProj
 └── Results
     ├── COL
-    │   └── SimulatedAnnealing
-    │       ├── AllData
-    │       └── ProcessedData
+    │   └── SimulatedAnnealing
+    │       ├── AllData
+    │       └── ProcessedData
     └── SAT
         ├── FMS
-        │   ├── AllData
-        │   └── ProcessedData
+        │   ├── AllData
+        │   └── ProcessedData
         ├── MCT0
-        │   └── AllData
+        │   └── AllData
         └── SimulatedAnnealing
             ├── FiniteSize
-            │   ├── AllData
-            │   └── ProcessedData
+            │   ├── AllData
+            │   │   ├── K_3
+            │   │   └── K_4
+            │   └── ProcessedData
             └── InfiniteSize
                 ├── Average
-                │   ├── K_3
-                │   ├── K_4
-                │   └── K_5
+                │   ├── K_3
+                │   ├── K_4
+                │   └── K_5
                 └── MINIMAX
                     ├── K_3
                     ├── K_4
