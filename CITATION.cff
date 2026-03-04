@@ -1,7 +1,7 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 title: "Algorithmic thresholds in combinatorial optimization depend on the time scaling"
-version: 1.1.2
+version: 2.0.1
 authors:
   - family-names: "Angelini"
     given-names: "Maria Chiara"
@@ -24,4 +24,4 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15363806
-date-released: 2025-05-08
+date-released: 2026-03-04
