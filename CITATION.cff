@@ -1,11 +1,26 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 title: "Algorithmic thresholds in combinatorial optimization depend on the time scaling"
-version: 1.1.1
+version: 1.1.2
 authors:
+  - family-names: "Angelini"
+    given-names: "Maria Chiara"
+    orcid: "https://orcid.org/0000-0002-6277-359X"
+  - family-names: "Avila González"
+    given-names: "Martín"
+    orcid: "https://orcid.org/0009-0005-0585-4966"
+  - family-names: "D'Amico"
+    given-names: "Francesco"
+    orcid: "https://orcid.org/0009-0006-0777-2160"
   - family-names: "Machado"
     given-names: "David"
     orcid: "https://orcid.org/0000-0002-2498-8098"
+  - family-names: "Mulet"
+    given-names: "Roberto"
+    orcid: "https://orcid.org/0000-0001-5168-5116"
+  - family-names: "Ricci-Tersenghi"
+    given-names: "Federico"
+    orcid: "https://orcid.org/0000-0003-4970-7376"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15363806

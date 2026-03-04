@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains all the code used to generate data for the article "Algorithmic thresholds in combinatorial optimization depend on the time scaling" ([arxiv](https://doi.org/10.48550/arXiv.2504.11174)). The user can find programs to:
+This repository contains all the code used to generate data for the article "Algorithmic thresholds in combinatorial optimization depend on the time scaling" ([PRX](https://doi.org/10.1103/dw9m-95vv), [arxiv](https://doi.org/10.48550/arXiv.2504.11174)). The user can find programs to:
 * Run the Simulated Annealing algorithm for K-SAT and q-coloring problems.
 * Run the Focused Metropolis Search (FMS) algorithm on K-SAT instances.
 * Run the zero-temperature Monte Carlo on K-SAT instances.
@@ -22,7 +22,7 @@ The user can find README.md files for each ones of these programs.
 
 ## Data
 
-The folder `Results/` contains all of the data necessary to reobtain the figures in our paper ([arxiv](https://doi.org/10.48550/arXiv.2504.11174)).
+The folder `Results/` contains all of the data necessary to reobtain the figures in our paper ([PRX](https://doi.org/10.1103/dw9m-95vv), [arxiv](https://doi.org/10.48550/arXiv.2504.11174)).
 
 Its structure of the whole repository is:
 
